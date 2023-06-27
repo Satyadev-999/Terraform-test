@@ -13,5 +13,5 @@ variable "gateway_id" {
 
 variable "route_tags" {
     type = map
-    description = "(Optional) A map of tags to assign to the resource."
 }
+
